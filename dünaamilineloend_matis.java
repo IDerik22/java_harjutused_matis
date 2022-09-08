@@ -43,3 +43,12 @@ public class dünaamilineloend_matis {
 		}
 	}
 }
+
+
+
+
+
+
+
+
+Erik oli siin :D lmao nt nt gg no re
